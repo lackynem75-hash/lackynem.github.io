@@ -1,1 +1,9 @@
-# lackynem.github.io
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="refresh" content="0; url=instagram://user?username=lackynem_">
+</head>
+<body>
+  <p>Se non si apre automaticamente, <a href="instagram://user?username=lackynem_">clicca qui</a></p>
+</body>
+</html>
